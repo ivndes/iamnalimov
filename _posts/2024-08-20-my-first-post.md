@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Мой первый пост"
+title: "My First Post"
 date: 2024-08-20 10:00:00 +0300
 categories: blog
 ---
