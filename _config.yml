@@ -1,5 +1,5 @@
 title: Ilia Nalimov
-description: Notes, Ideas, Thoughts
+description: My personal blog
 baseurl: "/iamnalimov"
-url: "https://ivndes.github.io/iamnalimov" 
-theme: minima 
+url: "https://ivndes.github.io"
+theme: minima

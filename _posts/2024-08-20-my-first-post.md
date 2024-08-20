@@ -5,4 +5,4 @@ date: 2024-08-20 10:00:00 +0300
 categories: blog
 ---
 
-Привет! Это мой первый пост в блоге. Я буду писать здесь о своём опыте и делиться своими мыслями.
+Welcome to my first blog post! Here I will share my thoughts and ideas.
